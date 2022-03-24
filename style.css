@@ -45,7 +45,7 @@ body {
   opacity: 1;
   transition: opacity 0.3s ease-in 0.5s;
 }
-@media (max-wdth: 500px) {
+@media (max-width: 500px) {
   .container {
     width: 90vw;
   }
